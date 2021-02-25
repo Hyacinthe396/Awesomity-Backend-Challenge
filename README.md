@@ -1,4 +1,4 @@
-# Todos App
+# Awesomity Backend CHallenge
 
 ### Prerequisites
 
