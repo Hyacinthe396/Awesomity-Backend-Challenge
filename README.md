@@ -3,7 +3,7 @@
 ### Prerequisites
 
 ```
-git clone Github_url
+git clone https://github.com/Hyacinthe396/Awesomity-Backend-Challenge
 ```
 
 ### Built with
@@ -13,7 +13,7 @@ git clone Github_url
 ### Requirements
 * **[`Node JS`](https://nodejs.org/en/download/)**
 * **[`Postman`](https://www.postman.com/) => for testing**
-* **[`Database`](https://github.com/sjasminetya/todos-backend/blob/main/todos.sql) => export database**
+* **[`Database`](https://github.com/Hyacinthe396/Awesomity-Backend-Challenge/blob/main/todos.sql) => export database**
 
 ### Add env
 Create .env file in your root project folder.
